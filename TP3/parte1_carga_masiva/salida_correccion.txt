@@ -1,0 +1,21 @@
+El despliegue de duración está activado.
+BEGIN
+Duración: 0,166 ms
+UPDATE 50000
+Duración: 936,592 ms
+UPDATE 200001
+Duración: 3583,425 ms (00:03,583)
+DELETE 622417
+Duración: 1494,203 ms (00:01,494)
+INSERT 0 500365
+Duración: 12209,726 ms (00:12,210)
+COMMIT
+Duración: 145,571 ms
+ANALYZE
+Duración: 204,905 ms
+ANALYZE
+Duración: 331,248 ms
+ANALYZE
+Duración: 67,717 ms
+ANALYZE
+Duración: 95,493 ms
